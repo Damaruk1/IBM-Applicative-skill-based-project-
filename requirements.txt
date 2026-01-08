@@ -1,0 +1,6 @@
+ibm-watson
+ibm-cloud-sdk-core
+python-dotenv
+pandas
+matplotlib
+requests
